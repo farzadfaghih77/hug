@@ -1192,3 +1192,4 @@ UNIUSDT nahaei-> 12.376
 PEPEUSDT nahaei-> 5.867e-06
 ENJUSDT nahaei-> 0.4903
 PEOPLEUSDT nahaei-> 0.03998
+KAVAUSDT nahaei-> 0.8544

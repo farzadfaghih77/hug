@@ -1146,3 +1146,4 @@ ADAUSDT nahaei-> 0.6474
 METISUSDT nahaei-> 88.16
 ALPINEUSDT nahaei-> 2.341
 RDNTUSDT nahaei-> 0.3476
+BNBUSDT nahaei-> 379.5

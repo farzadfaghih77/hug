@@ -1143,3 +1143,4 @@ LINAUSDT nahaei-> 0.01094
 ATOMUSDT nahaei-> 11.6322
 YFIUSDT nahaei-> 9080.0
 ADAUSDT nahaei-> 0.6474
+METISUSDT nahaei-> 88.16

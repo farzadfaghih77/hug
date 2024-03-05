@@ -1337,3 +1337,4 @@ NFTUSDT nahaei-> 6.095e-07
 BONKUSDT nahaei-> 2.852e-05
 CYBERUSDT nahaei-> 9.009
 PEPEUSDT nahaei-> 5.92e-06
+APTUSDT nahaei-> 13.499

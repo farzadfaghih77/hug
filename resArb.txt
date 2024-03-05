@@ -1139,3 +1139,4 @@ ARKMUSDT nahaei-> 2.2273
 XTZUSDT nahaei-> 1.276
 FLUXUSDT nahaei-> 0.9251
 CYBERUSDT nahaei-> 8.8639
+LINAUSDT nahaei-> 0.01094

@@ -1155,3 +1155,4 @@ AUDIOUSDT nahaei-> 0.2787
 DOTUSDT nahaei-> 9.0791
 SHIBUSDT nahaei-> 2.9e-05
 XLMUSDT nahaei-> 0.12931
+CROUSDT nahaei-> 0.1404

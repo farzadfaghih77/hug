@@ -1188,3 +1188,4 @@ LTCUSDT nahaei-> 78.7514
 APEUSDT nahaei-> 2.02
 GRTUSDT nahaei-> 0.2636
 ETHUSDT nahaei-> 3451.74
+UNIUSDT nahaei-> 12.376

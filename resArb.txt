@@ -1180,3 +1180,4 @@ LUNCUSDT nahaei-> 0.000192
 GMTUSDT nahaei-> 0.285
 JTOUSDT nahaei-> 2.457
 INJUSDT nahaei-> 36.52
+FLOKIUSDT nahaei-> 0.0001107

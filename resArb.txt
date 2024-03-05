@@ -1181,3 +1181,4 @@ GMTUSDT nahaei-> 0.285
 JTOUSDT nahaei-> 2.457
 INJUSDT nahaei-> 36.52
 FLOKIUSDT nahaei-> 0.0001107
+SYNUSDT nahaei-> 1.2649

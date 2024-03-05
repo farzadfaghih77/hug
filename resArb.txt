@@ -1140,3 +1140,4 @@ XTZUSDT nahaei-> 1.276
 FLUXUSDT nahaei-> 0.9251
 CYBERUSDT nahaei-> 8.8639
 LINAUSDT nahaei-> 0.01094
+ATOMUSDT nahaei-> 11.6322

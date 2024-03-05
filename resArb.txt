@@ -1185,3 +1185,4 @@ SYNUSDT nahaei-> 1.2649
 SNXUSDT nahaei-> 3.875
 FTMUSDT nahaei-> 0.615
 LTCUSDT nahaei-> 78.7514
+APEUSDT nahaei-> 2.02

@@ -1159,3 +1159,4 @@ CROUSDT nahaei-> 0.1404
 SANDUSDT nahaei-> 0.6108
 OMGUSDT nahaei-> 1.01332
 MKRUSDT nahaei-> 1936.0
+LUNAUSDT nahaei-> 1.123

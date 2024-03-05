@@ -1154,3 +1154,4 @@ OPUSDT nahaei-> 4.0789
 AUDIOUSDT nahaei-> 0.2787
 DOTUSDT nahaei-> 9.0791
 SHIBUSDT nahaei-> 2.9e-05
+XLMUSDT nahaei-> 0.12931

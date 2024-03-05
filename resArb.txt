@@ -1148,3 +1148,4 @@ ALPINEUSDT nahaei-> 2.341
 RDNTUSDT nahaei-> 0.3476
 BNBUSDT nahaei-> 379.5
 CAKEUSDT nahaei-> 2.899
+MATICUSDT nahaei-> 0.9993

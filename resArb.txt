@@ -1177,3 +1177,4 @@ AVAXUSDT nahaei-> 38.07
 TLMUSDT nahaei-> 0.0227
 STGUSDT nahaei-> 0.6266
 LUNCUSDT nahaei-> 0.000192
+GMTUSDT nahaei-> 0.285

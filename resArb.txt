@@ -1144,3 +1144,4 @@ ATOMUSDT nahaei-> 11.6322
 YFIUSDT nahaei-> 9080.0
 ADAUSDT nahaei-> 0.6474
 METISUSDT nahaei-> 88.16
+ALPINEUSDT nahaei-> 2.341

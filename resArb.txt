@@ -1151,3 +1151,4 @@ CAKEUSDT nahaei-> 2.899
 MATICUSDT nahaei-> 0.9993
 AGIXUSDT nahaei-> 0.7561
 OPUSDT nahaei-> 4.0789
+AUDIOUSDT nahaei-> 0.2787

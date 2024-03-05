@@ -1162,3 +1162,4 @@ MKRUSDT nahaei-> 1936.0
 LUNAUSDT nahaei-> 1.123
 TONUSDT nahaei-> 2.482
 EOSUSDT nahaei-> 1.0017
+FXSUSDT nahaei-> 7.5355

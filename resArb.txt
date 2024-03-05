@@ -1174,3 +1174,4 @@ CELRUSDT nahaei-> 0.03014
 BCHUSDT nahaei-> 376.4
 ETCUSDT nahaei-> 32.5814
 AVAXUSDT nahaei-> 38.07
+TLMUSDT nahaei-> 0.0227

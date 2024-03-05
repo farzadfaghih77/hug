@@ -1190,3 +1190,4 @@ GRTUSDT nahaei-> 0.2636
 ETHUSDT nahaei-> 3451.74
 UNIUSDT nahaei-> 12.376
 PEPEUSDT nahaei-> 5.867e-06
+ENJUSDT nahaei-> 0.4903

@@ -3,3 +3,4 @@
 04:42:17 | DCUSDT -> Success | start-> 0.000997 final-> 0.001098 -> 1.1013039117352055%
 05:42:50 | SHIBUSDT -> Failed | start-> 3.261482159e-05 final-> 3.3e-05 -> 1.0118099192705103%
 06:04:38 | BONKUSDT -> Failed | start-> 3e-05 final-> 3e-05 -> 1.0%
+06:22:01 | BONKUSDT -> Success | start-> 3e-05 final-> 3.2218e-05 -> 1.0739333333333334%
